@@ -18,9 +18,18 @@ var myRules ={
     digits:true}
 }
 var myMessages={
-    salary: {required:"Salary is required"},
-    creditScore: {required:"Your Credit Score is required"},
-    jobTime: {required:"Your time at your job is required in months"}
+    salary: {required:"Salary is required",
+    min:"Your Salary is too low",
+    max:"Your Salary is too high",
+    digits:"Please use numerical values"},
+    creditScore: {required:"Your Credit Score is required",
+    min:"Your credit score is too low",
+    max:"Enter a valid credit score",
+    digits:"Enter a credit score"},
+    jobTime: {required:"Your time at your job is required in months",
+    min:"Not enough job time",
+    max:"Enter correct time in months",
+    digits:"Enter correct time in months"}
 }
         //all other functions (program logic)
 $("form").validate({rules:myRules,
