@@ -17,6 +17,11 @@ var myRules ={
     max:360,
     digits:true}
 }
+var myMessages={
+    salary: {required:"Salary is required"},
+    creditScore: {required:"Your Credit Score is required"},
+    jobTime: {required:"Your time at your job is required in months"}
+}
         //all other functions (program logic)
 
     }
