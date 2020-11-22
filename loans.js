@@ -23,6 +23,6 @@ var myMessages={
     jobTime: {required:"Your time at your job is required in months"}
 }
         //all other functions (program logic)
+$("form").validate({rules:myRules,
+messages:myMessages,})
 
-    }
-)
