@@ -25,7 +25,7 @@ var myMessages={
     creditScore: {required:"Your Credit Score is required",
     min:"Your credit score is too low",
     max:"Enter a valid credit score",
-    digits:"Enter a credit score"},
+    digits:"Enter a valid credit score"},
     jobTime: {required:"Your time at your job is required in months",
     min:"Not enough job time",
     max:"Enter correct time in months",
