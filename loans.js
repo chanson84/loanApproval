@@ -31,6 +31,15 @@ var myMessages={
     max:"Enter correct time in months",
     digits:"Enter correct time in months"}
 }
+
+//Math
+        if(salary>0){
+        };
+    if(creditScore<630){},
+        else(creditScore>629){},
+        if(jobTime<12){},
+        else(jobTime){},
+
         //all other functions (program logic)
 $("form").validate({rules:myRules,
 messages:myMessages,})
