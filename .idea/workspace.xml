@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da2ba796-8ae9-41e0-9876-9ac0a384b98b" name="Default Changelist" comment="Updated JS">
+    <list default="true" id="da2ba796-8ae9-41e0-9876-9ac0a384b98b" name="Default Changelist" comment="Updated JS&amp; HTML">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loans.js" beforeDir="false" afterPath="$PROJECT_DIR$/loans.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606074334688</updated>
-      <workItem from="1606074335722" duration="8704000" />
+      <workItem from="1606074335722" duration="10150000" />
     </task>
     <task id="LOCAL-00001" summary="Updated JS">
       <created>1606082078377</created>
@@ -79,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606091841535</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated JS&amp; HTML">
+      <created>1606101025696</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606101025696</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +92,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated JS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated JS" />
+    <MESSAGE value="Updated JS&amp; HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated JS&amp; HTML" />
   </component>
   <component name="WindowStateProjectService">
     <state x="674" y="424" key="Github.ShareDialog" timestamp="1606081628872">
@@ -98,10 +104,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="607" y="231" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606081634360" />
-    <state x="396" y="259" key="Vcs.Push.Dialog.v2" timestamp="1606091842905">
+    <state x="396" y="259" key="Vcs.Push.Dialog.v2" timestamp="1606101027219">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="396" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606091842905" />
+    <state x="396" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606101027219" />
     <state x="467" y="245" width="672" height="678" key="search.everywhere.popup" timestamp="1606100740566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
