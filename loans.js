@@ -69,4 +69,4 @@ $(document).ready(
 //put in spans
         $("#loanStatus").text();
         $(".output").show();
-    }
+    })

@@ -40,7 +40,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606074334688</updated>
-      <workItem from="1606074335722" duration="10150000" />
+      <workItem from="1606074335722" duration="10178000" />
+      <workItem from="1606169267521" duration="1839000" />
+      <workItem from="1606263883435" duration="2408000" />
+      <workItem from="1606533810913" duration="1088000" />
+      <workItem from="1606598709722" duration="2203000" />
     </task>
     <task id="LOCAL-00001" summary="Updated JS">
       <created>1606082078377</created>
@@ -84,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606101025696</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated JS&amp; HTML">
+      <created>1606109801388</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606109801388</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,10 +115,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="607" y="231" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606081634360" />
-    <state x="396" y="259" key="Vcs.Push.Dialog.v2" timestamp="1606101027219">
+    <state x="396" y="259" key="Vcs.Push.Dialog.v2" timestamp="1606109802761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="396" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606101027219" />
+    <state x="396" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606109802761" />
     <state x="467" y="245" width="672" height="678" key="search.everywhere.popup" timestamp="1606100740566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
