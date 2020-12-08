@@ -5,7 +5,7 @@ $(document).ready(
         var myRules = {
             salary: {
                 required: true,
-                min: 0,
+                min: 40000,
                 max: 100000,
                 digits: true
             },
@@ -44,7 +44,7 @@ $(document).ready(
         }
 
 //Math
-        if (salary > 0) {
+        if (salary > 40000) {
             true
         }
         if (creditScore < 630) {
